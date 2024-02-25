@@ -1,4 +1,4 @@
-# City Cycling Bike-Share Case StudyAnalysis: Understanding Casual Riders and Optimizing Conversions for City Cycling
+# City Cycling Bike-Share Analysis: Understanding Casual Riders and Optimizing Conversions for City Cycling
 ## Introduction
 City Cycling's bike-share program has seen tremendous success, growing to over 5,000 bicycles across 692 stations. While casual riders contribute significantly, maximizing annual memberships remains crucial for long-term sustainability. This report analyzes rider data from 2023 to uncover insights into casual rider behavior and recommend data-driven marketing strategies for conversion.
 
@@ -78,19 +78,19 @@ Key Differences between Member and Casual Riders:
 
 ## Understanding Casual Riders' Motivations for Membership:
 Longer ride lengths and weekend/evening activity suggest casual riders might be interested in memberships if they are offered:
-> 1. Cost savings: Analyze how much frequent casual riders spend on single rides compared to annual membership cost to quantify potential savings. Highlight annual membership benefits like cost savings for frequent users.
-> 2. Convenience: Explore offering multi-day passes or discounted rates for longer trips.
-> 3. Flexibility: Showcase membership benefits like unlimited rides, bike type upgrades, or priority access to popular stations.
-> 4. Additional Features: Investigate member-exclusive features (e.g., e-bikes, reserved parking) and showcase them in marketing campaigns.
+1. Cost savings: Analyze how much frequent casual riders spend on single rides compared to annual membership cost to quantify potential savings. Highlight annual membership benefits like cost savings for frequent users.
+2. Convenience: Explore offering multi-day passes or discounted rates for longer trips.
+3. Flexibility: Showcase membership benefits like unlimited rides, bike type upgrades, or priority access to popular stations.
+4. Additional Features: Investigate member-exclusive features (e.g., e-bikes, reserved parking) and showcase them in marketing campaigns.
 
 ## Recommendations:
-> 1. Dynamic Pricing: Implementing dynamic pricing based on demand and station availability. This can incentivize casual riders to subscribe for guaranteed access during peak hours or at popular stations.
-> 2. Loyalty Programs: Implement a loyalty program rewarding frequent riders with points redeemable for discounts or exclusive benefits, encouraging them towards membership.
+1. Dynamic Pricing: Implementing dynamic pricing based on demand and station availability. This can incentivize casual riders to subscribe for guaranteed access during peak hours or at popular stations.
+2. Loyalty Programs: Implement a loyalty program rewarding frequent riders with points redeemable for discounts or exclusive benefits, encouraging them towards membership.
 Leveraging Digital Media for Conversion:
-> 3. Targeted ads: Based on station usage and ride patterns, target ads on specific platforms popular with casual riders in popular areas and during peak times.
-> 4. Content Marketing: Create engaging content showcasing membership benefits, user testimonials, and bike usage tips across various digital channels.
-> 5. Personalized content: Develop content showcasing longer scenic routes, weekend getaways, or discounts for multi-day trips to address casual rider interests.
-> 6. Interactive tools: Create an online trip planner suggesting routes and station availability based on user preferences, potentially enticing casual riders to explore > 7. membership benefits. Use rider app push notifications and targeted in-app promotions for further engagement.
+3. Targeted ads: Based on station usage and ride patterns, target ads on specific platforms popular with casual riders in popular areas and during peak times.
+4. Content Marketing: Create engaging content showcasing membership benefits, user testimonials, and bike usage tips across various digital channels.
+5. Personalized content: Develop content showcasing longer scenic routes, weekend getaways, or discounts for multi-day trips to address casual rider interests.
+6. Interactive tools: Create an online trip planner suggesting routes and station availability based on user preferences, potentially enticing casual riders to explore membership benefits. Use rider app push notifications and targeted in-app promotions for further engagement.
 
 ## Limitations:
 ### Data: 
