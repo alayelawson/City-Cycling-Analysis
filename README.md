@@ -10,9 +10,9 @@ The company's marketing director believes that the company’s future success de
 Design marketing strategies to convert casual riders to members by analyzing their differences, why casual riders would buy a membership, and how digital media could affect marketing decisions..
 
 ### Key questions to guide the analysis.
-How do annual members and casual riders differ in their usage patterns?
-What factors influence casual riders to convert to annual memberships?
-How can City Cycling leverage digital media to reach and convert casual riders?
+* How do annual members and casual riders differ in their usage patterns?
+* What factors influence casual riders to convert to annual memberships?
+* How can City Cycling leverage digital media to reach and convert casual riders?
 
 ## Data Source
 The data would cover rider information spanning one year from January 2023 to December 2023. The data has been made available by Motivate International Inc. with a [license](https://ride.divvybikes.com/data-license-agreement) and is originally stored in separate CSV files organized by the different months of the year [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
