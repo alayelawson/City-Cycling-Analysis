@@ -19,19 +19,19 @@ The data would cover rider information spanning one year from January 2023 to De
 
 The dataset consists of 13 variables such as
 
-> ride_id	- Unique ID assigned to each ride
-> rideable_type	- classic, docked, or electric
-> started_at - Date and time at the start of trip
-> ended_at - Date and time at the end of trip
-> start_station_name - Name of the station where the riders’ journey started from
-> start_station_id - ID of the station where the riders’ journey started from
-> end_station_name - Name of the station where the ride trip ended at
-> end_station_id -  ID of the station where the ride trip ended at
-> start_lat - Latitude of starting station
-> start_lng - Longitude of starting station
-> end_lat - Latitude of ending station
-> end_lng - Longitude of ending station
-> ride_plan - Type of membership of each rider
+* ride_id	- Unique ID assigned to each ride
+* rideable_type	- classic, docked, or electric
+* started_at - Date and time at the start of trip
+* ended_at - Date and time at the end of trip
+* start_station_name - Name of the station where the riders’ journey started from
+* start_station_id - ID of the station where the riders’ journey started from
+* end_station_name - Name of the station where the ride trip ended at
+* end_station_id -  ID of the station where the ride trip ended at
+* start_lat - Latitude of starting station
+* start_lng - Longitude of starting station
+* end_lat - Latitude of ending station
+* end_lng - Longitude of ending station
+* ride_plan - Type of membership of each rider
 
 ## Methodology
 Data from 13 variables spanning 1 year was analyzed using PostgreSQL and visualized in Tableau.
@@ -54,10 +54,10 @@ The cleaned dataset contains 4,331,138 rows
 ## Exploratory Data Analysis (EDA): 
 To understand how members and casual riders differ in their usage, I conducted a detailed analysis focusing on several key aspects:
 
-> Ride Volume and Duration: I compared the total number of rides taken by each group, revealing the overall usage distribution. Average ride duration (in minutes) was calculated for both groups, providing insights into their typical trip lengths.
-> Daily and Time-Based Usage: The number of rides per day and average ride duration per day were examined for both groups, uncovering potential daily usage patterns. Time-of-day analysis involved calculating the number of rides per hour, offering insights into peak usage periods and potential trip purposes for each group.
-> Monthly Trends: The number of rides per month was analyzed for both groups, revealing any seasonal variations in their usage patterns.
-> Station Usage: To identify the most frequented start and end stations for each group, I calculated the number of rides per station. This provided valuable information about their preferred locations.
+* Ride Volume and Duration: I compared the total number of rides taken by each group, revealing the overall usage distribution. Average ride duration (in minutes) was calculated for both groups, providing insights into their typical trip lengths.
+* Daily and Time-Based Usage: The number of rides per day and average ride duration per day were examined for both groups, uncovering potential daily usage patterns. Time-of-day analysis involved calculating the number of rides per hour, offering insights into peak usage periods and potential trip purposes for each group.
+* Monthly Trends: The number of rides per month was analyzed for both groups, revealing any seasonal variations in their usage patterns.
+* Station Usage: To identify the most frequented start and end stations for each group, I calculated the number of rides per station. This provided valuable information about their preferred locations.
 
 This comprehensive analysis, covering various aspects of usage, shed light on the distinct preferences and behaviors of members and casual riders, laying the groundwork for informed marketing strategies.
 
