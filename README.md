@@ -65,7 +65,7 @@ This comprehensive analysis, covering various aspects of usage, shed light on th
 ## Data Visualization
 My final CSV file was exported to Tableau to create the visualizations and dashboard  to further communicate my findings.
 
-![Dashboard 1](https://github.com/alayelawson/City-Cycling-Analysis/assets/134657438/fe5b36de-635e-44bc-8782-6b2e2b404d55)
+![Dashboard 1 (1)](https://github.com/alayelawson/City-Cycling-Analysis/assets/134657438/994881f0-2973-4595-a17c-edc820609caf)
 
 [Tableau Dasboard](https://public.tableau.com/views/CityCylingBike-ShareAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
